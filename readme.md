@@ -47,24 +47,6 @@ Phone / WhatsApp
 Email
 LinkedIn Profile
 
-
-📂 Project Structure
-Portfolio/
-│
-├── index.html          # Main website page
-├── style.css           # Website styling
-├── script.js           # Interactive functionality
-│
-├── images/
-│   ├── author.jpeg
-│   ├── Author.png
-│   ├── change.png
-│   └── gav.png
-│
-└── README.md
-
-
-
 🛠 Technologies Used
 HTML
 CSS
